@@ -102,6 +102,8 @@ Esta función se ejecuta constantemente sobre el jugador que va en tercer lugar
 ### actionbar/demas.mcfunction
 Esta función se ejecuta constantemente sobre los jugadores que no van en primer, segundo o tercer lugar.
 
+
+
 Sientete libre de modificar las demás funciones si necesitas mayor personalización.
 ## Notas
 - Si encuentras algun fallo, tienes alguna duda o quieres contactar conmigo, mi user de discord es: **hugme#8792**
