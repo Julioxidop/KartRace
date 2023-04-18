@@ -7,7 +7,7 @@ Datapack que integra un sistema de carrera lineal, con detección de pisiciones.
 - Funciones listas para que lo puedas personalizar y dar tu toque único.
 
 ## Descargar e instalar
-Primero necesitaremos [***descargar***](https://github.com/Julioxidop/TNTTag/releases/tag/1.0 "aquí")  el datapack, después lo descomprimimos en la carpeta **datapacks** de nuestro mundo y ejercutaremos el comando **/reload** para que esté listo para funcionar.
+Primero necesitaremos [***descargar***](https://github.com/Julioxidop/KartRace/releases/tag/2.0 "aquí")  el datapack, después lo descomprimimos en la carpeta **datapacks** de nuestro mundo y ejercutaremos el comando **/reload** para que esté listo para funcionar.
 ### Resourcepack
 Recomiendo al momento de crear la pista, usar el resourcepack Bounding para tener una mejor visualización al momento de colocar los markers.
 
