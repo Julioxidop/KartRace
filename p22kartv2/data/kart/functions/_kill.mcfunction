@@ -1,0 +1,1 @@
+schedule clear kart:timer

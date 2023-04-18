@@ -1,0 +1,2 @@
+give @s bee_spawn_egg{display:{Name:'{"text":"Marker","color":"white","bold":true,"italic":false}'}, EntityTag:{NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,Tags:["unset_marker"]},eggmarker:1b} 1
+give @s bee_spawn_egg{display:{Name:'{"text":"Checkpoint","color":"gold","bold":true,"italic":false}'}, EntityTag:{NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,Tags:["unset_marker","checkpoint"]},eggmarker:1b} 1

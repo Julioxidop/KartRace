@@ -1,0 +1,1 @@
+tellraw @a ["",{"selector":"@s","bold":true,"color":"red"}," ha llegado a la meta en ",{"score":{"name":"@s","objective":".place"},"bold":true,"color":"red"},{"text":"°","bold":true,"color":"red"}," lugar."]
